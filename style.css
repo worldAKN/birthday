@@ -35,7 +35,7 @@ img{vertical-align: top;}
 
 h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
 body {
-    background: url('https://e0.pxfuel.com/wallpapers/505/29/desktop-wallpaper-manhattan-new-york-iphone-travel-%E2%9C%88.jpg') no-repeat center;
+    background: url('https://cdn.viewing.nyc/assets/media/84159259311e9b18f9763c7fb5db5ace/elements/48785d40533ec1ece863a384279ca62a/c76edd34-a32b-4d08-9bab-4f4969b99c6a.jpg') no-repeat center;
     background-size: 100vw 100vh;
     font-family: Arial, sans-serif;
     margin: 0;
@@ -70,7 +70,7 @@ main {
     font-size: 1.2em;
 }
 .wishes {
-    color: black;
+    color: white;
     transition: 1.2s ease-in-out;
     line-height: 35px;
     margin-top: 20px;
